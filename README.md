@@ -14,45 +14,47 @@
 
 ## KaiOS Hello World
 
-Just a Hello World App for KaiOS 
+Just a Hello World App for [KaiOS](https://developer.kaiostech.com/) 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+I do not know what to write here exactly, so I will just write this.  
+Oh, wait. This might be helpful. [KaisOS Getting Started official documentation](https://developer.kaiostech.com/getting-started)  
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Download the Simulator [here](https://developer.kaiostech.com/getting-started/env-setup/simulator). 
 
 ```
-Codes
+No codes. Just clicks. 
 ```
 
-### Installation
+### Installation  
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```bash
-Codes
+• clone this repo in your machine
+```bash 
+git clone https://github.com/sawthinkar/KaiOS-helloworld.git
 ```
 
-And repeat
+## Usage  
 
-```
-Codes
-```
+• open Kaiosrt (simulator) and import the project using `Open Packaged App...` on the far left column. 
 
-End with an example of getting some data out of the system or using it for a little demo
+![KaiOS Simulator](/screenshots/kaios_simulator.png)
 
-## Usage
+``` 
+then just click run
+``` 
 
-```python
-import packages
+![Hello World in Kaiosrt](/screenshots/helloworld_simulator.png)
 
-more codes
-```
+*You can also try this in WebIDE like [CodeSandbox](https://codesandbox.io/s/my-first-vanilla-app-kaios-kv3zi)* 
+
+![Hello World in WebIDE](/screenshots/helloworld_websimulator.png) 
+
+*[TODO LIST Vanilla App](https://codesandbox.io/s/my-first-vanilla-app-kaios-ef0ge) in WebIDE* 
+
+![Hello World in WebIDE](/screenshots/kaios_vanilla_app.png) 
 
 <!-- ## Deployment
 
@@ -77,5 +79,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 (References/Credits)  
 [ReadMe Sample Templates](https://github.com/s15n/README.md)
+
+
+**NOTE: This is my very first attempt of making a proper README.md**
 
 ---
