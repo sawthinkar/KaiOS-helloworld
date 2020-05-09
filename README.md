@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 (References/Credits)  
-[ReadMe Sample Templates](https://github.com/s15n/README.md)
+[ReadMe Sample Templates](https://github.com/sawthinkar/README.md)
 
 
 **NOTE: This is my very first attempt of making a proper README.md**
